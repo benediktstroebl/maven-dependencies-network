@@ -8,18 +8,18 @@
     "text": "Benedikt Ströbl"
   },
   "text": {
-    "more": "Java dependencies network",
-    "intro": "Java dependencies network",
-    "title": "Network of Maven dependencies"
+    "more": "Network of Maven (Java) dependencies",
+    "intro": "Network of Maven (Java) dependencies",
+    "title": "Network of Maven (Java) dependencies"
   },
   "legend": {
-    "edgeLabel": "Java dependencies",
-    "colorLabel": "None",
-    "nodeLabel": "Java packages"
+    "edgeLabel": "Dependency",
+    "colorLabel": "Community (Modularity Class)",
+    "nodeLabel": "Java package"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "Modularity Class",
     "hoverBehavior": "default"
   },
   "informationPanel": {
